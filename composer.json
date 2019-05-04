@@ -1,0 +1,15 @@
+{
+    "name": "admin/composer",
+    "authors": [
+        {
+            "name": "Vio",
+            "email": "denis.budancev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Example\\":"example"
+        }
+    }
+}
